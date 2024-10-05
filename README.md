@@ -1,5 +1,5 @@
 # 💫 About Me:
-• 🎓 I'm currently studying ...<br>Computer Science on Department of Informatics and Computer Engineering at the University of West Attica<br>• 🔭 I’m currently working on ...<br>Peinalas App.<br>• 🌱 I’m currently learning about ...<br>Java, databases and CRUD applications.<br>• 🔍 I'm currently looking for...<br>Software Engineering positions<br>• ⚡ Fun fact ...<br>I like building stuff from scratch and trying new tech<br><br>
+• 🎓 I'm currently studying ...<br>Computer Science on Department of Informatics and Computer Engineering at the University of West Attica<br>• 🔭 I’m currently working on ...<br>Peinalas App.<br>• 🌱 I’m currently learning about ...<br>React.<br>• 🔍 I'm currently looking for...<br>Software Engineering positions<br>• ⚡ Fun fact ...<br>I like building stuff from scratch and trying new tech<br><br>
 
 
 ## 🌐 Socials:
