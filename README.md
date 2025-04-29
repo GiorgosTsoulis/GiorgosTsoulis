@@ -1,5 +1,5 @@
 # 💫 About Me:
-• 🎓 I'm currently studying ...<br>Computer Science on Department of Informatics and Computer Engineering at the University of West Attica<br>• 🔭 I’m currently working on ...<br>AppointMe App.<br>• 🌱 I’m currently learning about ...<br>Full Stack Engineering.<br>• 🔍 I'm currently looking for...<br>Software Engineering positions<br>• ⚡ Fun fact ...<br>I like building stuff from scratch and trying new tech<br><br>
+• 🎓 I'm currently studying ...<br>Computer Science on Department of Informatics and Computer Engineering at the University of West Attica<br>• 🔭 I’m currently working on ...<br>Streaming App.<br>• 🌱 I’m currently learning about ...<br>Spring Boot.<br>• 🔍 I'm currently looking for...<br>Software Engineering positions<br>• ⚡ Fun fact ...<br>I like building stuff from scratch and trying new tech<br><br>
 
 
 ## 🌐 Socials:
