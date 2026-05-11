@@ -1,13 +1,17 @@
+ ██████╗ ██╗ ██████╗ ██████╗  ██████╗  ██████╗ ███████╗ ██████╗ ██████╗ ██████╗ ███████╗███████╗
+██╔════╝ ██║██╔═══██╗██╔══██╗██╔════╝ ██╔═══██╗██╔════╝██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔════╝
+██║  ███╗██║██║   ██║██████╔╝██║  ███╗██║   ██║███████╗██║     ██║   ██║██║  ██║█████╗  ███████╗
+██║   ██║██║██║   ██║██╔══██╗██║   ██║██║   ██║╚════██║██║     ██║   ██║██║  ██║██╔══╝  ╚════██║
+╚██████╔╝██║╚██████╔╝██║  ██║╚██████╔╝╚██████╔╝███████║╚██████╗╚██████╔╝██████╔╝███████╗███████║
+ ╚═════╝ ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝ ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝
 
-
-Hey, I'm George 🤟🏼 — CS student by day, bug creator by night.  
-Building an educational platform @ Απαρχή · Working on my thesis so I can finally graduate · Occasionally writing code that actually works.
+Hey, I'm George 🤟🏼 — I build things. Most of the time they work.
 
 ---
 
-### // tech stack
+### // Tech stack
 `Laravel` `Livewire` `Alpine.js` `Tailwind CSS` `MySQL` `PHP` `Python` `JavaScript`
 
 ---
 
-📍 Athens, Greece &nbsp;·&nbsp; 🎓 UniWA Computer Engineering &nbsp;·&nbsp; 🚧 Always building something
+Athens, Greece &nbsp;·&nbsp; UniWA Computer Engineering &nbsp;·&nbsp;
