@@ -1,3 +1,13 @@
-Hey, I'm George 🤟🏼, 
 
-An undergraduate student in Computer Engineering.<br><br>I love turning ideas into reality through hands-on projects. Whether it's building applications or solving real-world problems with technology, I enjoy every part of the process — from brainstorming to implementation.
+
+Hey, I'm George 🤟🏼 — CS student by day, bug creator by night.  
+Building an educational platform @ Απαρχή · Working on my thesis so I can finally graduate · Occasionally writing code that actually works.
+
+---
+
+### // tech stack
+`Laravel` `Livewire` `Alpine.js` `Tailwind CSS` `MySQL` `PHP` `Python` `JavaScript`
+
+---
+
+📍 Athens, Greece &nbsp;·&nbsp; 🎓 UniWA Computer Engineering &nbsp;·&nbsp; 🚧 Always building something
