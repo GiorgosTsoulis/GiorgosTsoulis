@@ -7,4 +7,4 @@ Hey, I'm George 🤟🏼 — I build things. Most of the time they work.
 
 ---
 
-Athens, Greece &nbsp;·&nbsp; UniWA Computer Engineering &nbsp;·&nbsp;
+Athens, Greece &nbsp;·&nbsp; UniWA Computer Engineering
