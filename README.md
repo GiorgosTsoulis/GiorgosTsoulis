@@ -6,4 +6,4 @@ I build things. Most of the time they work.
 `Laravel` `Livewire` `Alpine.js` `Tailwind CSS` `MySQL` `PHP` `Python` `JavaScript`
 
 
-Curently at Athens, Greece &nbsp;·&nbsp; UniWA Computer Engineering
+Currently at Athens, Greece &nbsp;·&nbsp; UniWA Computer Engineering
