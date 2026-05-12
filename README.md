@@ -1,4 +1,5 @@
-Hey, I'm George 🤟🏼 — I build things. Most of the time they work.
+## Hey, I'm George 🤟🏼 
+I build things. Most of the time they work.
 
 ---
 
